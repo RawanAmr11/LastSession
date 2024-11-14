@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ExpenseModelStoreContainer" CdmEntityContainer="ExpenseEntities">
+    <EntitySetMapping Name="ExpenseReports">
+      <EntityTypeMapping TypeName="ExpenseModel.ExpenseReport">
+        <MappingFragment StoreEntitySet="ExpenseReport">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Names" ColumnName="Names" />
+          <ScalarProperty Name="ExpenseType" ColumnName="ExpenseType" />
+          <ScalarProperty Name="Amount" ColumnName="Amount" />
+          <ScalarProperty Name="Department" ColumnName="Department" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

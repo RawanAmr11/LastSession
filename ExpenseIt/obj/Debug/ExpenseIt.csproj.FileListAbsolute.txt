@@ -1,0 +1,147 @@
+E:\Elsewedy\Desktop G2\ExpenseIt\ExpenseIt\bin\Debug\ExpenseIt.exe.config
+E:\Elsewedy\Desktop G2\ExpenseIt\ExpenseIt\bin\Debug\ExpenseIt.exe
+E:\Elsewedy\Desktop G2\ExpenseIt\ExpenseIt\bin\Debug\ExpenseIt.pdb
+E:\Elsewedy\Desktop G2\ExpenseIt\ExpenseIt\obj\Debug\ExpenseIt.csproj.AssemblyReference.cache
+E:\Elsewedy\Desktop G2\ExpenseIt\ExpenseIt\obj\Debug\ExpenseItHome.g.cs
+E:\Elsewedy\Desktop G2\ExpenseIt\ExpenseIt\obj\Debug\ExpenseReportPage.g.cs
+E:\Elsewedy\Desktop G2\ExpenseIt\ExpenseIt\obj\Debug\MainWindow.g.cs
+E:\Elsewedy\Desktop G2\ExpenseIt\ExpenseIt\obj\Debug\App.g.cs
+E:\Elsewedy\Desktop G2\ExpenseIt\ExpenseIt\obj\Debug\ExpenseIt_MarkupCompile.cache
+E:\Elsewedy\Desktop G2\ExpenseIt\ExpenseIt\obj\Debug\ExpenseIt_MarkupCompile.lref
+E:\Elsewedy\Desktop G2\ExpenseIt\ExpenseIt\obj\Debug\ExpenseItHome.baml
+E:\Elsewedy\Desktop G2\ExpenseIt\ExpenseIt\obj\Debug\ExpenseReportPage.baml
+E:\Elsewedy\Desktop G2\ExpenseIt\ExpenseIt\obj\Debug\MainWindow.baml
+E:\Elsewedy\Desktop G2\ExpenseIt\ExpenseIt\obj\Debug\ExpenseIt.g.resources
+E:\Elsewedy\Desktop G2\ExpenseIt\ExpenseIt\obj\Debug\ExpenseIt.Properties.Resources.resources
+E:\Elsewedy\Desktop G2\ExpenseIt\ExpenseIt\obj\Debug\ExpenseIt.csproj.GenerateResource.cache
+E:\Elsewedy\Desktop G2\ExpenseIt\ExpenseIt\obj\Debug\ExpenseIt.csproj.CoreCompileInputs.cache
+E:\Elsewedy\Desktop G2\ExpenseIt\ExpenseIt\obj\Debug\ExpenseIt.exe
+E:\Elsewedy\Desktop G2\ExpenseIt\ExpenseIt\obj\Debug\ExpenseIt.pdb
+E:\Elsewedy\Desktop G2\ExpenseIt\ExpenseIt\obj\Debug\App.baml
+E:\Elsewedy\Desktop G2\Projects\ExpenseIt\ExpenseIt\obj\Debug\ExpenseIt.csproj.AssemblyReference.cache
+E:\Elsewedy\Desktop G2\Projects\ExpenseIt\ExpenseIt\obj\Debug\ExpenseItHome.g.cs
+E:\Elsewedy\Desktop G2\Projects\ExpenseIt\ExpenseIt\obj\Debug\MainWindow.g.cs
+E:\Elsewedy\Desktop G2\Projects\ExpenseIt\ExpenseIt\obj\Debug\App.g.cs
+E:\Elsewedy\Desktop G2\Projects\ExpenseIt\ExpenseIt\obj\Debug\ExpenseIt_MarkupCompile.cache
+E:\Elsewedy\Desktop G2\Projects\ExpenseIt\ExpenseIt\obj\Debug\ExpenseIt_MarkupCompile.lref
+E:\Elsewedy\Desktop G2\Projects\ExpenseIt\ExpenseIt\obj\Debug\ExpenseIt.exe
+E:\Elsewedy\Desktop G2\Projects\ExpenseIt\ExpenseIt\obj\Debug\ExpenseIt.pdb
+E:\Elsewedy\Desktop G2\Projects\ExpenseIt\ExpenseIt\bin\Debug\ExpenseIt.exe.config
+E:\Elsewedy\Desktop G2\Projects\ExpenseIt\ExpenseIt\bin\Debug\ExpenseIt.exe
+E:\Elsewedy\Desktop G2\Projects\ExpenseIt\ExpenseIt\bin\Debug\ExpenseIt.pdb
+E:\Elsewedy\Desktop G2\Projects\ExpenseIt\ExpenseIt\obj\Debug\ExpenseReportPage.g.cs
+E:\Elsewedy\Desktop G2\Projects\ExpenseIt\ExpenseIt\obj\Debug\App.baml
+E:\Elsewedy\Desktop G2\Projects\ExpenseIt\ExpenseIt\obj\Debug\ExpenseItHome.baml
+E:\Elsewedy\Desktop G2\Projects\ExpenseIt\ExpenseIt\obj\Debug\ExpenseReportPage.baml
+E:\Elsewedy\Desktop G2\Projects\ExpenseIt\ExpenseIt\obj\Debug\MainWindow.baml
+E:\Elsewedy\Desktop G2\Projects\ExpenseIt\ExpenseIt\obj\Debug\ExpenseIt.g.resources
+E:\Elsewedy\Desktop G2\Projects\ExpenseIt\ExpenseIt\obj\Debug\ExpenseIt.Properties.Resources.resources
+E:\Elsewedy\Desktop G2\Projects\ExpenseIt\ExpenseIt\obj\Debug\ExpenseIt.csproj.GenerateResource.cache
+E:\Elsewedy\Desktop G2\Projects\ExpenseIt\ExpenseIt\obj\Debug\ExpenseIt.csproj.CoreCompileInputs.cache
+D:\Elsewedy\Desktop G2\Projects\ExpenseIt\ExpenseIt\bin\Debug\ExpenseIt.exe.config
+D:\Elsewedy\Desktop G2\Projects\ExpenseIt\ExpenseIt\bin\Debug\ExpenseIt.exe
+D:\Elsewedy\Desktop G2\Projects\ExpenseIt\ExpenseIt\bin\Debug\ExpenseIt.pdb
+D:\Elsewedy\Desktop G2\Projects\ExpenseIt\ExpenseIt\obj\Debug\ExpenseIt.csproj.AssemblyReference.cache
+D:\Elsewedy\Desktop G2\Projects\ExpenseIt\ExpenseIt\obj\Debug\ExpenseIt.csproj.SuggestedBindingRedirects.cache
+D:\Elsewedy\Desktop G2\Projects\ExpenseIt\ExpenseIt\obj\Debug\ExpenseItHome.g.cs
+D:\Elsewedy\Desktop G2\Projects\ExpenseIt\ExpenseIt\obj\Debug\ExpenseReportPage.g.cs
+D:\Elsewedy\Desktop G2\Projects\ExpenseIt\ExpenseIt\obj\Debug\MainWindow.g.cs
+D:\Elsewedy\Desktop G2\Projects\ExpenseIt\ExpenseIt\obj\Debug\App.g.cs
+D:\Elsewedy\Desktop G2\Projects\ExpenseIt\ExpenseIt\obj\Debug\ExpenseIt_MarkupCompile.cache
+D:\Elsewedy\Desktop G2\Projects\ExpenseIt\ExpenseIt\obj\Debug\ExpenseIt_MarkupCompile.lref
+D:\Elsewedy\Desktop G2\Projects\ExpenseIt\ExpenseIt\obj\Debug\App.baml
+D:\Elsewedy\Desktop G2\Projects\ExpenseIt\ExpenseIt\obj\Debug\ExpenseItHome.baml
+D:\Elsewedy\Desktop G2\Projects\ExpenseIt\ExpenseIt\obj\Debug\ExpenseReportPage.baml
+D:\Elsewedy\Desktop G2\Projects\ExpenseIt\ExpenseIt\obj\Debug\MainWindow.baml
+D:\Elsewedy\Desktop G2\Projects\ExpenseIt\ExpenseIt\obj\Debug\ExpenseIt.g.resources
+D:\Elsewedy\Desktop G2\Projects\ExpenseIt\ExpenseIt\obj\Debug\ExpenseIt.Properties.Resources.resources
+D:\Elsewedy\Desktop G2\Projects\ExpenseIt\ExpenseIt\obj\Debug\ExpenseIt.csproj.GenerateResource.cache
+D:\Elsewedy\Desktop G2\Projects\ExpenseIt\ExpenseIt\obj\Debug\ExpenseIt.csproj.CoreCompileInputs.cache
+D:\Elsewedy\Desktop G2\Projects\ExpenseIt\ExpenseIt\obj\Debug\ExpenseIt.exe
+D:\Elsewedy\Desktop G2\Projects\ExpenseIt\ExpenseIt\obj\Debug\ExpenseIt.pdb
+D:\Elsewedy\Desktop G2\PowerPoints\Week 4\ExpenseIt\ExpenseIt\bin\Debug\ExpenseIt.exe.config
+D:\Elsewedy\Desktop G2\PowerPoints\Week 4\ExpenseIt\ExpenseIt\bin\Debug\ExpenseIt.exe
+D:\Elsewedy\Desktop G2\PowerPoints\Week 4\ExpenseIt\ExpenseIt\bin\Debug\ExpenseIt.pdb
+D:\Elsewedy\Desktop G2\PowerPoints\Week 4\ExpenseIt\ExpenseIt\obj\Debug\ExpenseIt.csproj.AssemblyReference.cache
+D:\Elsewedy\Desktop G2\PowerPoints\Week 4\ExpenseIt\ExpenseIt\obj\Debug\ExpenseItHome.g.cs
+D:\Elsewedy\Desktop G2\PowerPoints\Week 4\ExpenseIt\ExpenseIt\obj\Debug\ExpenseReportPage.g.cs
+D:\Elsewedy\Desktop G2\PowerPoints\Week 4\ExpenseIt\ExpenseIt\obj\Debug\MainWindow.g.cs
+D:\Elsewedy\Desktop G2\PowerPoints\Week 4\ExpenseIt\ExpenseIt\obj\Debug\App.g.cs
+D:\Elsewedy\Desktop G2\PowerPoints\Week 4\ExpenseIt\ExpenseIt\obj\Debug\ExpenseIt_MarkupCompile.cache
+D:\Elsewedy\Desktop G2\PowerPoints\Week 4\ExpenseIt\ExpenseIt\obj\Debug\ExpenseIt_MarkupCompile.lref
+D:\Elsewedy\Desktop G2\PowerPoints\Week 4\ExpenseIt\ExpenseIt\obj\Debug\App.baml
+D:\Elsewedy\Desktop G2\PowerPoints\Week 4\ExpenseIt\ExpenseIt\obj\Debug\ExpenseItHome.baml
+D:\Elsewedy\Desktop G2\PowerPoints\Week 4\ExpenseIt\ExpenseIt\obj\Debug\ExpenseReportPage.baml
+D:\Elsewedy\Desktop G2\PowerPoints\Week 4\ExpenseIt\ExpenseIt\obj\Debug\MainWindow.baml
+D:\Elsewedy\Desktop G2\PowerPoints\Week 4\ExpenseIt\ExpenseIt\obj\Debug\ExpenseIt.g.resources
+D:\Elsewedy\Desktop G2\PowerPoints\Week 4\ExpenseIt\ExpenseIt\obj\Debug\ExpenseIt.Properties.Resources.resources
+D:\Elsewedy\Desktop G2\PowerPoints\Week 4\ExpenseIt\ExpenseIt\obj\Debug\ExpenseIt.csproj.GenerateResource.cache
+D:\Elsewedy\Desktop G2\PowerPoints\Week 4\ExpenseIt\ExpenseIt\obj\Debug\ExpenseIt.csproj.CoreCompileInputs.cache
+D:\Elsewedy\Desktop G2\PowerPoints\Week 4\ExpenseIt\ExpenseIt\obj\Debug\ExpenseIt.exe
+D:\Elsewedy\Desktop G2\PowerPoints\Week 4\ExpenseIt\ExpenseIt\obj\Debug\ExpenseIt.pdb
+D:\Elsewedy\Desktop G2\PowerPoints\Week 4\ExpenseIt\ExpenseIt\bin\Debug\EntityFramework.dll
+D:\Elsewedy\Desktop G2\PowerPoints\Week 4\ExpenseIt\ExpenseIt\bin\Debug\EntityFramework.SqlServer.dll
+D:\Elsewedy\Desktop G2\PowerPoints\Week 4\ExpenseIt\ExpenseIt\bin\Debug\EntityFramework.xml
+D:\Elsewedy\Desktop G2\PowerPoints\Week 4\ExpenseIt\ExpenseIt\bin\Debug\EntityFramework.SqlServer.xml
+D:\Elsewedy\Desktop G2\PowerPoints\Week 4\ExpenseIt\ExpenseIt\obj\Debug\ExpenseIt_Content.g.cs
+D:\Elsewedy\Desktop G2\PowerPoints\Week 4\ExpenseIt\ExpenseIt\obj\Debug\ExpenseIt.csproj.CopyComplete
+D:\Elsewedy\Desktop G2\PowerPoints\Week 4\ExpenseIt\ExpenseIt\obj\Debug\ModifyRecords.g.cs
+D:\Elsewedy\Desktop G2\PowerPoints\Week 4\ExpenseIt\ExpenseIt\obj\Debug\ModifyRecords.baml
+C:\Users\IT\Downloads\ExpenseIt (2)\ExpenseIt\ExpenseIt\bin\Debug\ExpenseIt.exe.config
+C:\Users\IT\Downloads\ExpenseIt (2)\ExpenseIt\ExpenseIt\bin\Debug\ExpenseIt.exe
+C:\Users\IT\Downloads\ExpenseIt (2)\ExpenseIt\ExpenseIt\bin\Debug\ExpenseIt.pdb
+C:\Users\IT\Downloads\ExpenseIt (2)\ExpenseIt\ExpenseIt\bin\Debug\EntityFramework.dll
+C:\Users\IT\Downloads\ExpenseIt (2)\ExpenseIt\ExpenseIt\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\IT\Downloads\ExpenseIt (2)\ExpenseIt\ExpenseIt\bin\Debug\EntityFramework.xml
+C:\Users\IT\Downloads\ExpenseIt (2)\ExpenseIt\ExpenseIt\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\IT\Downloads\ExpenseIt (2)\ExpenseIt\ExpenseIt\obj\Debug\ExpenseIt.csproj.AssemblyReference.cache
+C:\Users\IT\Downloads\ExpenseIt (2)\ExpenseIt\ExpenseIt\obj\Debug\ExpenseIt.csproj.SuggestedBindingRedirects.cache
+C:\Users\IT\Downloads\ExpenseIt (2)\ExpenseIt\ExpenseIt\obj\Debug\ExpenseItHome.g.cs
+C:\Users\IT\Downloads\ExpenseIt (2)\ExpenseIt\ExpenseIt\obj\Debug\ExpenseReportPage.g.cs
+C:\Users\IT\Downloads\ExpenseIt (2)\ExpenseIt\ExpenseIt\obj\Debug\MainWindow.g.cs
+C:\Users\IT\Downloads\ExpenseIt (2)\ExpenseIt\ExpenseIt\obj\Debug\ModifyRecords.g.cs
+C:\Users\IT\Downloads\ExpenseIt (2)\ExpenseIt\ExpenseIt\obj\Debug\App.g.cs
+C:\Users\IT\Downloads\ExpenseIt (2)\ExpenseIt\ExpenseIt\obj\Debug\ExpenseIt_Content.g.cs
+C:\Users\IT\Downloads\ExpenseIt (2)\ExpenseIt\ExpenseIt\obj\Debug\ExpenseIt_MarkupCompile.cache
+C:\Users\IT\Downloads\ExpenseIt (2)\ExpenseIt\ExpenseIt\obj\Debug\ExpenseIt_MarkupCompile.lref
+C:\Users\IT\Downloads\ExpenseIt (2)\ExpenseIt\ExpenseIt\obj\Debug\App.baml
+C:\Users\IT\Downloads\ExpenseIt (2)\ExpenseIt\ExpenseIt\obj\Debug\ExpenseItHome.baml
+C:\Users\IT\Downloads\ExpenseIt (2)\ExpenseIt\ExpenseIt\obj\Debug\ExpenseReportPage.baml
+C:\Users\IT\Downloads\ExpenseIt (2)\ExpenseIt\ExpenseIt\obj\Debug\MainWindow.baml
+C:\Users\IT\Downloads\ExpenseIt (2)\ExpenseIt\ExpenseIt\obj\Debug\ModifyRecords.baml
+C:\Users\IT\Downloads\ExpenseIt (2)\ExpenseIt\ExpenseIt\obj\Debug\ExpenseIt.g.resources
+C:\Users\IT\Downloads\ExpenseIt (2)\ExpenseIt\ExpenseIt\obj\Debug\ExpenseIt.Properties.Resources.resources
+C:\Users\IT\Downloads\ExpenseIt (2)\ExpenseIt\ExpenseIt\obj\Debug\ExpenseIt.csproj.GenerateResource.cache
+C:\Users\IT\Downloads\ExpenseIt (2)\ExpenseIt\ExpenseIt\obj\Debug\ExpenseIt.csproj.CoreCompileInputs.cache
+C:\Users\IT\Downloads\ExpenseIt (2)\ExpenseIt\ExpenseIt\obj\Debug\ExpenseIt.csproj.CopyComplete
+C:\Users\IT\Downloads\ExpenseIt (2)\ExpenseIt\ExpenseIt\obj\Debug\ExpenseIt.exe
+C:\Users\IT\Downloads\ExpenseIt (2)\ExpenseIt\ExpenseIt\obj\Debug\ExpenseIt.pdb
+C:\Users\IT\Documents\Wheeler's competencies\Desktop\ExpenseIt (2)\ExpenseIt\ExpenseIt\bin\Debug\ExpenseIt.exe.config
+C:\Users\IT\Documents\Wheeler's competencies\Desktop\ExpenseIt (2)\ExpenseIt\ExpenseIt\bin\Debug\ExpenseIt.exe
+C:\Users\IT\Documents\Wheeler's competencies\Desktop\ExpenseIt (2)\ExpenseIt\ExpenseIt\bin\Debug\ExpenseIt.pdb
+C:\Users\IT\Documents\Wheeler's competencies\Desktop\ExpenseIt (2)\ExpenseIt\ExpenseIt\bin\Debug\EntityFramework.dll
+C:\Users\IT\Documents\Wheeler's competencies\Desktop\ExpenseIt (2)\ExpenseIt\ExpenseIt\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\IT\Documents\Wheeler's competencies\Desktop\ExpenseIt (2)\ExpenseIt\ExpenseIt\bin\Debug\EntityFramework.xml
+C:\Users\IT\Documents\Wheeler's competencies\Desktop\ExpenseIt (2)\ExpenseIt\ExpenseIt\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\IT\Documents\Wheeler's competencies\Desktop\ExpenseIt (2)\ExpenseIt\ExpenseIt\obj\Debug\ExpenseIt.csproj.AssemblyReference.cache
+C:\Users\IT\Documents\Wheeler's competencies\Desktop\ExpenseIt (2)\ExpenseIt\ExpenseIt\obj\Debug\ExpenseIt.csproj.SuggestedBindingRedirects.cache
+C:\Users\IT\Documents\Wheeler's competencies\Desktop\ExpenseIt (2)\ExpenseIt\ExpenseIt\obj\Debug\ExpenseItHome.g.cs
+C:\Users\IT\Documents\Wheeler's competencies\Desktop\ExpenseIt (2)\ExpenseIt\ExpenseIt\obj\Debug\ExpenseReportPage.g.cs
+C:\Users\IT\Documents\Wheeler's competencies\Desktop\ExpenseIt (2)\ExpenseIt\ExpenseIt\obj\Debug\MainWindow.g.cs
+C:\Users\IT\Documents\Wheeler's competencies\Desktop\ExpenseIt (2)\ExpenseIt\ExpenseIt\obj\Debug\ModifyRecords.g.cs
+C:\Users\IT\Documents\Wheeler's competencies\Desktop\ExpenseIt (2)\ExpenseIt\ExpenseIt\obj\Debug\App.g.cs
+C:\Users\IT\Documents\Wheeler's competencies\Desktop\ExpenseIt (2)\ExpenseIt\ExpenseIt\obj\Debug\ExpenseIt_Content.g.cs
+C:\Users\IT\Documents\Wheeler's competencies\Desktop\ExpenseIt (2)\ExpenseIt\ExpenseIt\obj\Debug\ExpenseIt_MarkupCompile.cache
+C:\Users\IT\Documents\Wheeler's competencies\Desktop\ExpenseIt (2)\ExpenseIt\ExpenseIt\obj\Debug\ExpenseIt_MarkupCompile.lref
+C:\Users\IT\Documents\Wheeler's competencies\Desktop\ExpenseIt (2)\ExpenseIt\ExpenseIt\obj\Debug\App.baml
+C:\Users\IT\Documents\Wheeler's competencies\Desktop\ExpenseIt (2)\ExpenseIt\ExpenseIt\obj\Debug\ExpenseItHome.baml
+C:\Users\IT\Documents\Wheeler's competencies\Desktop\ExpenseIt (2)\ExpenseIt\ExpenseIt\obj\Debug\ExpenseReportPage.baml
+C:\Users\IT\Documents\Wheeler's competencies\Desktop\ExpenseIt (2)\ExpenseIt\ExpenseIt\obj\Debug\MainWindow.baml
+C:\Users\IT\Documents\Wheeler's competencies\Desktop\ExpenseIt (2)\ExpenseIt\ExpenseIt\obj\Debug\ModifyRecords.baml
+C:\Users\IT\Documents\Wheeler's competencies\Desktop\ExpenseIt (2)\ExpenseIt\ExpenseIt\obj\Debug\ExpenseIt.g.resources
+C:\Users\IT\Documents\Wheeler's competencies\Desktop\ExpenseIt (2)\ExpenseIt\ExpenseIt\obj\Debug\ExpenseIt.Properties.Resources.resources
+C:\Users\IT\Documents\Wheeler's competencies\Desktop\ExpenseIt (2)\ExpenseIt\ExpenseIt\obj\Debug\ExpenseIt.csproj.GenerateResource.cache
+C:\Users\IT\Documents\Wheeler's competencies\Desktop\ExpenseIt (2)\ExpenseIt\ExpenseIt\obj\Debug\ExpenseIt.csproj.CoreCompileInputs.cache
+C:\Users\IT\Documents\Wheeler's competencies\Desktop\ExpenseIt (2)\ExpenseIt\ExpenseIt\obj\Debug\ExpenseIt.csproj.CopyComplete
+C:\Users\IT\Documents\Wheeler's competencies\Desktop\ExpenseIt (2)\ExpenseIt\ExpenseIt\obj\Debug\ExpenseIt.exe
+C:\Users\IT\Documents\Wheeler's competencies\Desktop\ExpenseIt (2)\ExpenseIt\ExpenseIt\obj\Debug\ExpenseIt.pdb
